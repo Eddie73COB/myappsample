@@ -99,6 +99,6 @@ Click the plus (+) sign to expand the details for **User Account Deprovisioning*
 
 Go back to the Request in TSM, select and accept the task named “Active director-DE-provision active directory account”. When ready to complete the task, click on the “Complete” icon.
 
-1[TSM14](TSM14.png)
+![TSM14](TSM14.png)
 
 Copy the **Deprovisioning** confirmation information from ARS and paste the information into the **Resolution notes** portion of the TSM(HEAT) ticket.
