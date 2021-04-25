@@ -62,7 +62,7 @@ Listed below are the DLs that we can remove users from:
 
 3. Locate the user that needs to be removed by scrolling down or up, or by typing the user's name on the *Contact Group Membership* list. Afterwards click on the button *Removed*.
 
-![TSM6](TSM6.PNG)
+![TSM6](TSM6.png)
 
 4. Repeat the process with all the Distribution lists the user is member of.
 
