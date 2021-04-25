@@ -4,7 +4,7 @@
 |-------------------------|-----------------------------------|
 |Version: 1.0             |Document type: Knowledge           |
 |Creation Date: 03/28/2021|Last Modification:                 |
-|Owner: Eduardo Osuina    |Last modification made by:         |
+|Owner: Eduardo Osuna     |Last modification made by:         |
 
 <br></br>
 <br></br>
