@@ -33,9 +33,8 @@ The Incident Queue Manager role is in charge to distribute Inident's workload in
 
 1. Open the Incident tab, if the tab does not automatically go to the *Unassigned self service incidents* option, it will need to be opened from the scroll down menu:
 
-![TSM1](TSM1.PNG)
+[TSM1](TSM1.PNG)
 
-![TSM1](TSM1.PNG)
 
 2. It is imperative that the incidents incoming is changed from “Logged” to “Active” status within 4 hours at the most, that the incident came in otherwise we will be breaching the SLA stablished.
 
